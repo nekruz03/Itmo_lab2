@@ -19,4 +19,6 @@
 Информацию о покемонах, цепочках эволюции и атаках можно найти на
 сайтах http://poke-universe.ru, http://pokemondb.net, http://veekun.com/dex/pokemon
 
+<image src="images/pokemon.png" alt="Текст с описанием картинки">
+
 
